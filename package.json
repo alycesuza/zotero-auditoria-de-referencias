@@ -1,6 +1,6 @@
 {
-  "name": "zotero-reference-audit",
-  "version": "0.1.0",
+  "name": "zotero-auditoria-de-referencias",
+  "version": "0.1.1",
   "private": true,
   "description": "Aponta campos ausentes, DOI com sintaxe inválida, ISBN inválido, DOI compartilhado e datas com períodos.",
   "license": "AGPL-3.0-only",

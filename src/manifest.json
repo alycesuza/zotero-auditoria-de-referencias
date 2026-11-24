@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "Auditoria de referências",
-  "version": "0.1.0",
+  "name": "Auditoria de Referências",
+  "version": "0.1.1",
   "description": "Aponta campos ausentes, DOI com sintaxe inválida, ISBN inválido, DOI compartilhado e datas com períodos.",
   "author": "Alyce Suza",
-  "homepage_url": "https://github.com/alycesuza/zotero-reference-audit",
+  "homepage_url": "https://github.com/alycesuza/zotero-auditoria-de-referencias",
   "applications": {
     "zotero": {
       "id": "zotero-reference-audit@alycesuza.github.io",
-      "update_url": "https://github.com/alycesuza/zotero-reference-audit/releases/latest/download/updates.json",
+      "update_url": "https://github.com/alycesuza/zotero-auditoria-de-referencias/releases/latest/download/updates.json",
       "strict_min_version": "10.0",
       "strict_max_version": "10.0.*"
     }

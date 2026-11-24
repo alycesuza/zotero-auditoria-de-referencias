@@ -1,9 +1,11 @@
-# Auditoria de referências 0.1.0
+# Auditoria de Referências 0.1.1
 
 Pré-lançamento para Zotero 10.0.x.
 
-Aponta campos ausentes, DOI com sintaxe inválida, ISBN inválido, DOI compartilhado e datas com períodos.
+- Nome da extensão, repositório e instalador padronizados em português.
+- Documentação e endereços de atualização revisados.
+- Funções da versão anterior preservadas, incluindo os identificadores de instalação e o histórico local de correções, quando aplicável.
 
-Somente leitura. A sintaxe válida de DOI não comprova identidade da obra. DOI compartilhado é indício para revisão, não autorização para fundir registros. Datas de páginas web podem legitimamente estar ausentes.
+Baixe `zotero-auditoria-de-referencias-0.1.1.xpi` e instale em Ferramentas > Extensões > Instalar extensão de arquivo.
 
-Baixe o arquivo `.xpi`, não o código-fonte compactado. Instale em Ferramentas > Extensões > Instalar extensão de arquivo. Consulte o README para uso, privacidade e desinstalação. Esta versão ainda requer validação de uso cotidiano; testes automatizados não representam revisão de uma biblioteca real inteira.
+Esta atualização muda a apresentação e os links. A validação funcional de base está documentada em docs/VALIDATION.md; os testes automatizados são executados novamente para esta versão.
