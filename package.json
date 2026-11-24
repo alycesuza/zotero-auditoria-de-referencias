@@ -1,0 +1,14 @@
+{
+  "name": "zotero-reference-audit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Aponta campos ausentes, DOI com sintaxe inválida, ISBN inválido, DOI compartilhado e datas com períodos.",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "build": "python scripts/build.py"
+  },
+  "zotero": {
+    "id": "zotero-reference-audit@alycesuza.github.io"
+  }
+}
